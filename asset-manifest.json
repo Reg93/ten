@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ten/static/css/main.d9530a5d.css",
-    "main.js": "/ten/static/js/main.6bdf12b1.js",
+    "main.js": "/ten/static/js/main.427d3307.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/tennis_ball.svg": "/ten/static/media/tennis_ball.e1907071c651b6a19757961d8012725a.svg",
     "static/media/Rubik-Medium.woff": "/ten/static/media/Rubik-Medium.33900caf5711aee3fc58.woff",
@@ -46,11 +46,11 @@
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
     "main.d9530a5d.css.map": "/ten/static/css/main.d9530a5d.css.map",
-    "main.6bdf12b1.js.map": "/ten/static/js/main.6bdf12b1.js.map",
+    "main.427d3307.js.map": "/ten/static/js/main.427d3307.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9530a5d.css",
-    "static/js/main.6bdf12b1.js"
+    "static/js/main.427d3307.js"
   ]
 }

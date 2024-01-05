@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.016e7ab6.css",
+    "main.css": "/ten/static/css/main.e52aca9d.css",
     "main.js": "/ten/static/js/main.7722c912.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
@@ -50,12 +50,12 @@
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.016e7ab6.css.map": "/ten/static/css/main.016e7ab6.css.map",
+    "main.e52aca9d.css.map": "/ten/static/css/main.e52aca9d.css.map",
     "main.7722c912.js.map": "/ten/static/js/main.7722c912.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.016e7ab6.css",
+    "static/css/main.e52aca9d.css",
     "static/js/main.7722c912.js"
   ]
 }

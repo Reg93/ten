@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.cd54b535.css",
-    "main.js": "/ten/static/js/main.2d80635b.js",
+    "main.css": "/ten/static/css/main.de45225d.css",
+    "main.js": "/ten/static/js/main.37b036e2.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/tennis_ball.svg": "/ten/static/media/tennis_ball.bcb87313706d2a1ccd98a0361f4c3d4c.svg",
@@ -50,12 +50,12 @@
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.cd54b535.css.map": "/ten/static/css/main.cd54b535.css.map",
-    "main.2d80635b.js.map": "/ten/static/js/main.2d80635b.js.map",
+    "main.de45225d.css.map": "/ten/static/css/main.de45225d.css.map",
+    "main.37b036e2.js.map": "/ten/static/js/main.37b036e2.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd54b535.css",
-    "static/js/main.2d80635b.js"
+    "static/css/main.de45225d.css",
+    "static/js/main.37b036e2.js"
   ]
 }

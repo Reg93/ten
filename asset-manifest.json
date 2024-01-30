@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ten/static/css/main.e2632e5e.css",
-    "main.js": "/ten/static/js/main.e4df177b.js",
+    "main.js": "/ten/static/js/main.cdfc3c95.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -52,11 +52,11 @@
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
     "main.e2632e5e.css.map": "/ten/static/css/main.e2632e5e.css.map",
-    "main.e4df177b.js.map": "/ten/static/js/main.e4df177b.js.map",
+    "main.cdfc3c95.js.map": "/ten/static/js/main.cdfc3c95.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2632e5e.css",
-    "static/js/main.e4df177b.js"
+    "static/js/main.cdfc3c95.js"
   ]
 }

@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.e2632e5e.css",
-    "main.js": "/ten/static/js/main.cdfc3c95.js",
+    "main.css": "/ten/static/css/main.9c59de65.css",
+    "main.js": "/ten/static/js/main.459e632f.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
-    "static/media/tennis_ball.svg": "/ten/static/media/tennis_ball.bcb87313706d2a1ccd98a0361f4c3d4c.svg",
     "static/media/rokets.svg": "/ten/static/media/rokets.76eb89fd393d91f71e00ba79bb00fe0f.svg",
     "static/media/rockets.svg": "/ten/static/media/rockets.6ffe2a6ce8b938b0735ad145885d3c98.svg",
     "static/media/structure_menu_blue.svg": "/ten/static/media/structure_menu_blue.a9e0dce7e450e99e09120a1a5cb38030.svg",
@@ -27,6 +26,7 @@
     "static/media/warning.svg": "/ten/static/media/warning.8fd67b8e48a1e08aaede0d0af439e90d.svg",
     "static/media/visibility_off.svg": "/ten/static/media/visibility_off.0d7fdc743515260b1d1bb2b5c4fb1452.svg",
     "static/media/tournaments.svg": "/ten/static/media/tournaments.9286aa387e824c1bf022657dd9f2b804.svg",
+    "static/media/tennis_ball.svg": "/ten/static/media/tennis_ball.f27a63d94ed2a6a8e5f2cf3f0574fe88.svg",
     "static/media/edit_note.svg": "/ten/static/media/edit_note.22cc5ef9e6847d01fa5b2af2b406a86e.svg",
     "static/media/account.svg": "/ten/static/media/account.0c1f7c1cb04d34bc05919d91f041307e.svg",
     "static/media/exit-tour.svg": "/ten/static/media/exit-tour.13f483f125039adfd4c387a713a16a47.svg",
@@ -51,12 +51,12 @@
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.e2632e5e.css.map": "/ten/static/css/main.e2632e5e.css.map",
-    "main.cdfc3c95.js.map": "/ten/static/js/main.cdfc3c95.js.map",
+    "main.9c59de65.css.map": "/ten/static/css/main.9c59de65.css.map",
+    "main.459e632f.js.map": "/ten/static/js/main.459e632f.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2632e5e.css",
-    "static/js/main.cdfc3c95.js"
+    "static/css/main.9c59de65.css",
+    "static/js/main.459e632f.js"
   ]
 }

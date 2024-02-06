@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.79f5717d.css",
-    "main.js": "/ten/static/js/main.0001c26c.js",
+    "main.css": "/ten/static/css/main.ebbf004f.css",
+    "main.js": "/ten/static/js/main.a4e070b7.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -31,11 +31,11 @@
     "static/media/account.svg": "/ten/static/media/account.0c1f7c1cb04d34bc05919d91f041307e.svg",
     "static/media/exit-tour.svg": "/ten/static/media/exit-tour.13f483f125039adfd4c387a713a16a47.svg",
     "static/media/pen_stage.svg": "/ten/static/media/pen_stage.301abf2f718f3f7ca629d13012c6803c.svg",
+    "static/media/cross_set.svg": "/ten/static/media/cross_set.dfe5bf44e91b804226dba4a4b46f708f.svg",
     "static/media/info-tour.svg": "/ten/static/media/info-tour.8da104f3ad3d6aa7b105cc0e454af76d.svg",
     "static/media/visibility.svg": "/ten/static/media/visibility.64bd0cd898ce5ac0371ca4634eeaf416.svg",
     "static/media/plus_white.svg": "/ten/static/media/plus_white.6e24e7faa471a39bdc37a2b3d0664bfc.svg",
     "static/media/loupe.svg": "/ten/static/media/loupe.40441666de3601afa39b8461429fac33.svg",
-    "static/media/plus-blue.svg": "/ten/static/media/plus-blue.26dc98bb12fc911bedd044a5ed3d7406.svg",
     "static/media/edit_pen.svg": "/ten/static/media/edit_pen.cb695b4768b985d8be95cbf1b632edda.svg",
     "static/media/dnd.svg": "/ten/static/media/dnd.989b8f57ec818519c7889d3374888f20.svg",
     "static/media/arrow-down.svg": "/ten/static/media/arrow-down.063b836b07b35cf4ef628d74ca60969d.svg",
@@ -51,12 +51,12 @@
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/edit_line_pen_blue.svg": "/ten/static/media/edit_line_pen_blue.934212e592b8d30bb7e60045724936a6.svg",
     "static/media/done.svg": "/ten/static/media/done.3027a1fa9f2b205f4e0c53273633182e.svg",
-    "main.79f5717d.css.map": "/ten/static/css/main.79f5717d.css.map",
-    "main.0001c26c.js.map": "/ten/static/js/main.0001c26c.js.map",
+    "main.ebbf004f.css.map": "/ten/static/css/main.ebbf004f.css.map",
+    "main.a4e070b7.js.map": "/ten/static/js/main.a4e070b7.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f5717d.css",
-    "static/js/main.0001c26c.js"
+    "static/css/main.ebbf004f.css",
+    "static/js/main.a4e070b7.js"
   ]
 }

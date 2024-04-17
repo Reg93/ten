@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.33f8cb0c.css",
-    "main.js": "/ten/static/js/main.4dedf738.js",
+    "main.css": "/ten/static/css/main.d156892c.css",
+    "main.js": "/ten/static/js/main.5d0f97b3.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
     "static/media/rokets.svg": "/ten/static/media/rokets.76eb89fd393d91f71e00ba79bb00fe0f.svg",
     "static/media/rockets.svg": "/ten/static/media/rockets.6ffe2a6ce8b938b0735ad145885d3c98.svg",
+    "static/media/struc-grey-new.svg": "/ten/static/media/struc-grey-new.f6366706d1b4398fa72919e7ffebc3c3.svg",
     "static/media/schedule.svg": "/ten/static/media/schedule.7800b4d68b35affe0eeb223d61eb6284.svg",
     "static/media/participants.svg": "/ten/static/media/participants.2bdf8680bebfa5a1bd2d71247894a0c3.svg",
     "static/media/structure.svg": "/ten/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
     "static/media/cup.svg": "/ten/static/media/cup.ed52837d3b07c3ad9f7fdff55672bec5.svg",
     "static/media/tentur_logo.svg": "/ten/static/media/tentur_logo.85d58f061d3f8e0d47b5b7556b500756.svg",
     "static/media/chain.svg": "/ten/static/media/chain.78812981ab9943167c4aa7f6ef63cf1c.svg",
+    "static/media/build__stage.svg": "/ten/static/media/build__stage.1ce524237196b4b77910c07e409179a7.svg",
     "static/media/community.svg": "/ten/static/media/community.af083f721d0b10ab8fe7511144737e2a.svg",
     "static/media/magic_stick.svg": "/ten/static/media/magic_stick.64e35390afe16e25dd75b2ffbcbc8361.svg",
     "static/media/struc.svg": "/ten/static/media/struc.a09b3132738cb8b30839768a714e6592.svg",
@@ -41,7 +43,8 @@
     "static/media/arrow-down.svg": "/ten/static/media/arrow-down.4835bfe248ed90ea5303309fcf26dd0f.svg",
     "index.html": "/ten/index.html",
     "static/media/match_minus.svg": "/ten/static/media/match_minus.622d69193f370d97f0e0e4896e9dc394.svg",
-    "static/media/rolling.svg": "/ten/static/media/rolling.0f3b6450425009814338966e78fa3073.svg",
+    "static/media/bucket.svg": "/ten/static/media/bucket.b695f4e5b3238567dcd05a4463a5040f.svg",
+    "static/media/rolling.svg": "/ten/static/media/rolling.bceeb15daaabdb50673998568b5da7ff.svg",
     "static/media/arrow_back.svg": "/ten/static/media/arrow_back.36b6a26e6abd987b4dbcf70a2a938264.svg",
     "static/media/tentur_logo2.svg": "/ten/static/media/tentur_logo2.2da9fd6472a921a6761b0263f453ce96.svg",
     "static/media/close.svg": "/ten/static/media/close.86ca77a5f260a6071723df5237143e4b.svg",
@@ -49,12 +52,12 @@
     "static/media/drag.svg": "/ten/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/remove.svg": "/ten/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.33f8cb0c.css.map": "/ten/static/css/main.33f8cb0c.css.map",
-    "main.4dedf738.js.map": "/ten/static/js/main.4dedf738.js.map",
+    "main.d156892c.css.map": "/ten/static/css/main.d156892c.css.map",
+    "main.5d0f97b3.js.map": "/ten/static/js/main.5d0f97b3.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33f8cb0c.css",
-    "static/js/main.4dedf738.js"
+    "static/css/main.d156892c.css",
+    "static/js/main.5d0f97b3.js"
   ]
 }

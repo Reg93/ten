@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.f0557a29.css",
-    "main.js": "/ten/static/js/main.24c32281.js",
+    "main.css": "/ten/static/css/main.36383286.css",
+    "main.js": "/ten/static/js/main.7649c70c.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -11,7 +11,6 @@
     "static/media/schedule.svg": "/ten/static/media/schedule.7800b4d68b35affe0eeb223d61eb6284.svg",
     "static/media/participants.svg": "/ten/static/media/participants.2bdf8680bebfa5a1bd2d71247894a0c3.svg",
     "static/media/structure.svg": "/ten/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
-    "static/media/olympic_three.svg": "/ten/static/media/olympic_three.598f5e412f1b9c480b0929486c4f72b0.svg",
     "static/media/olympic_plus.svg": "/ten/static/media/olympic_plus.55df191b57e13c0b8b81f289988deb2a.svg",
     "static/media/round_robin.svg": "/ten/static/media/round_robin.484b6fefb0f49bb0bef969485fc5138b.svg",
     "static/media/cup.svg": "/ten/static/media/cup.ed52837d3b07c3ad9f7fdff55672bec5.svg",
@@ -19,7 +18,6 @@
     "static/media/chain.svg": "/ten/static/media/chain.78812981ab9943167c4aa7f6ef63cf1c.svg",
     "static/media/build__stage.svg": "/ten/static/media/build__stage.1ce524237196b4b77910c07e409179a7.svg",
     "static/media/community.svg": "/ten/static/media/community.af083f721d0b10ab8fe7511144737e2a.svg",
-    "static/media/olympic.svg": "/ten/static/media/olympic.cf37dc355bf2e9574699df77a3ca969d.svg",
     "static/media/magic_stick.svg": "/ten/static/media/magic_stick.64e35390afe16e25dd75b2ffbcbc8361.svg",
     "static/media/grids.svg": "/ten/static/media/grids.33df8d759a13f71733871ffe46bf442f.svg",
     "static/media/players.svg": "/ten/static/media/players.38dc85053cc351d17dd0f3f57cf1a6e7.svg",
@@ -32,7 +30,6 @@
     "static/media/account.svg": "/ten/static/media/account.0c1f7c1cb04d34bc05919d91f041307e.svg",
     "static/media/round-plus.svg": "/ten/static/media/round-plus.9b1b7b645b9404978f7f8157dc95cdd5.svg",
     "static/media/round_plus.svg": "/ten/static/media/round_plus.79ce41ad080dfce19a86e534a3517d31.svg",
-    "static/media/drop_out.svg": "/ten/static/media/drop_out.32b2277bc0899837a24a92a66b975679.svg",
     "static/media/exit-tour.svg": "/ten/static/media/exit-tour.13f483f125039adfd4c387a713a16a47.svg",
     "static/media/no_player.svg": "/ten/static/media/no_player.ad4fbb0bf97ef1f5f412823c6ed7cf19.svg",
     "static/media/pen_stage.svg": "/ten/static/media/pen_stage.3dcbf5eb54b4419741d9f92e47912653.svg",
@@ -50,18 +47,19 @@
     "static/media/bucket.svg": "/ten/static/media/bucket.b695f4e5b3238567dcd05a4463a5040f.svg",
     "static/media/rolling.svg": "/ten/static/media/rolling.bceeb15daaabdb50673998568b5da7ff.svg",
     "static/media/arrow_back.svg": "/ten/static/media/arrow_back.36b6a26e6abd987b4dbcf70a2a938264.svg",
+    "static/media/print.svg": "/ten/static/media/print.a566bd2b14bf0816821cccd0f27ca67c.svg",
     "static/media/tentur_logo2.svg": "/ten/static/media/tentur_logo2.2da9fd6472a921a6761b0263f453ce96.svg",
     "static/media/close.svg": "/ten/static/media/close.86ca77a5f260a6071723df5237143e4b.svg",
     "static/media/edit_blue.svg": "/ten/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/drag.svg": "/ten/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/minus-delete.svg": "/ten/static/media/minus-delete.71b904ff4e135a36bc6208065c4b5e70.svg",
     "static/media/remove.svg": "/ten/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.f0557a29.css.map": "/ten/static/css/main.f0557a29.css.map",
-    "main.24c32281.js.map": "/ten/static/js/main.24c32281.js.map",
+    "main.36383286.css.map": "/ten/static/css/main.36383286.css.map",
+    "main.7649c70c.js.map": "/ten/static/js/main.7649c70c.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0557a29.css",
-    "static/js/main.24c32281.js"
+    "static/css/main.36383286.css",
+    "static/js/main.7649c70c.js"
   ]
 }

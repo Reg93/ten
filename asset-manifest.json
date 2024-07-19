@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.f40c41b1.css",
-    "main.js": "/ten/static/js/main.77814179.js",
+    "main.css": "/ten/static/css/main.3ec38145.css",
+    "main.js": "/ten/static/js/main.a388c6f2.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -11,6 +11,7 @@
     "static/media/schedule.svg": "/ten/static/media/schedule.7800b4d68b35affe0eeb223d61eb6284.svg",
     "static/media/participants.svg": "/ten/static/media/participants.2bdf8680bebfa5a1bd2d71247894a0c3.svg",
     "static/media/structure.svg": "/ten/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
+    "static/media/olympic_three.svg": "/ten/static/media/olympic_three.598f5e412f1b9c480b0929486c4f72b0.svg",
     "static/media/olympic_plus.svg": "/ten/static/media/olympic_plus.55df191b57e13c0b8b81f289988deb2a.svg",
     "static/media/round_robin.svg": "/ten/static/media/round_robin.484b6fefb0f49bb0bef969485fc5138b.svg",
     "static/media/cup.svg": "/ten/static/media/cup.ed52837d3b07c3ad9f7fdff55672bec5.svg",
@@ -18,6 +19,7 @@
     "static/media/chain.svg": "/ten/static/media/chain.78812981ab9943167c4aa7f6ef63cf1c.svg",
     "static/media/build__stage.svg": "/ten/static/media/build__stage.1ce524237196b4b77910c07e409179a7.svg",
     "static/media/community.svg": "/ten/static/media/community.af083f721d0b10ab8fe7511144737e2a.svg",
+    "static/media/olympic.svg": "/ten/static/media/olympic.cf37dc355bf2e9574699df77a3ca969d.svg",
     "static/media/magic_stick.svg": "/ten/static/media/magic_stick.64e35390afe16e25dd75b2ffbcbc8361.svg",
     "static/media/grids.svg": "/ten/static/media/grids.33df8d759a13f71733871ffe46bf442f.svg",
     "static/media/players.svg": "/ten/static/media/players.38dc85053cc351d17dd0f3f57cf1a6e7.svg",
@@ -31,6 +33,7 @@
     "static/media/round_cross_grey.svg": "/ten/static/media/round_cross_grey.78d9ac962605695126d0480fc1b2824c.svg",
     "static/media/round-plus.svg": "/ten/static/media/round-plus.9b1b7b645b9404978f7f8157dc95cdd5.svg",
     "static/media/round_plus.svg": "/ten/static/media/round_plus.79ce41ad080dfce19a86e534a3517d31.svg",
+    "static/media/drop_out.svg": "/ten/static/media/drop_out.32b2277bc0899837a24a92a66b975679.svg",
     "static/media/exit-tour.svg": "/ten/static/media/exit-tour.13f483f125039adfd4c387a713a16a47.svg",
     "static/media/no_play.svg": "/ten/static/media/no_play.ad4fbb0bf97ef1f5f412823c6ed7cf19.svg",
     "static/media/pen_stage.svg": "/ten/static/media/pen_stage.3dcbf5eb54b4419741d9f92e47912653.svg",
@@ -44,6 +47,8 @@
     "static/media/plus_white.svg": "/ten/static/media/plus_white.c75d70a91c968b49ae70cc1eab0e9e74.svg",
     "static/media/dnd.svg": "/ten/static/media/dnd.989b8f57ec818519c7889d3374888f20.svg",
     "static/media/arrow_down.svg": "/ten/static/media/arrow_down.fff725338fec58a5b1fbacacdd26bac4.svg",
+    "static/media/arrow_right.svg": "/ten/static/media/arrow_right.6567f8425d68e298783d871229de1d15.svg",
+    "static/media/checkmark.svg": "/ten/static/media/checkmark.f9bbc2f3925366c6180fcc82fbd64fac.svg",
     "index.html": "/ten/index.html",
     "static/media/match_minus.svg": "/ten/static/media/match_minus.622d69193f370d97f0e0e4896e9dc394.svg",
     "static/media/bucket.svg": "/ten/static/media/bucket.b695f4e5b3238567dcd05a4463a5040f.svg",
@@ -55,13 +60,12 @@
     "static/media/edit_blue.svg": "/ten/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/drag.svg": "/ten/static/media/drag.4937626fdd42937107acb712d1c4fc74.svg",
     "static/media/remove.svg": "/ten/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "static/media/checkmark.svg": "/ten/static/media/checkmark.5c4e7b37bc5c5189a6d3af7e0b893ea4.svg",
-    "main.f40c41b1.css.map": "/ten/static/css/main.f40c41b1.css.map",
-    "main.77814179.js.map": "/ten/static/js/main.77814179.js.map",
+    "main.3ec38145.css.map": "/ten/static/css/main.3ec38145.css.map",
+    "main.a388c6f2.js.map": "/ten/static/js/main.a388c6f2.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f40c41b1.css",
-    "static/js/main.77814179.js"
+    "static/css/main.3ec38145.css",
+    "static/js/main.a388c6f2.js"
   ]
 }

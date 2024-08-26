@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten/static/css/main.75fc6e84.css",
-    "main.js": "/ten/static/js/main.18351eb4.js",
+    "main.css": "/ten/static/css/main.e6ee72e5.css",
+    "main.js": "/ten/static/js/main.36eef6d2.js",
     "static/js/787.d10e31bf.chunk.js": "/ten/static/js/787.d10e31bf.chunk.js",
     "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/ten/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.a0b7e10dce05a30f5799.ttf",
     "static/media/SawarabiGothic-Regular_1.woff": "/ten/static/media/SawarabiGothic-Regular_1.95b9e4ed1c7b0bea9417.woff",
@@ -13,6 +13,7 @@
     "static/media/structure.svg": "/ten/static/media/structure.9d1cbf0bbb32d24bb6546dbccd0e22e8.svg",
     "static/media/olympic_three.svg": "/ten/static/media/olympic_three.598f5e412f1b9c480b0929486c4f72b0.svg",
     "static/media/olympic_plus.svg": "/ten/static/media/olympic_plus.55df191b57e13c0b8b81f289988deb2a.svg",
+    "static/media/edit-person.svg": "/ten/static/media/edit-person.33f28cfdd7b40961df5baa3131578f45.svg",
     "static/media/round_robin.svg": "/ten/static/media/round_robin.484b6fefb0f49bb0bef969485fc5138b.svg",
     "static/media/cup.svg": "/ten/static/media/cup.ed52837d3b07c3ad9f7fdff55672bec5.svg",
     "static/media/tentur_logo.svg": "/ten/static/media/tentur_logo.85d58f061d3f8e0d47b5b7556b500756.svg",
@@ -60,12 +61,12 @@
     "static/media/close.svg": "/ten/static/media/close.86ca77a5f260a6071723df5237143e4b.svg",
     "static/media/edit_blue.svg": "/ten/static/media/edit_blue.ac018ee664586845c1993d5d42369a73.svg",
     "static/media/remove.svg": "/ten/static/media/remove.0e70acb6b570abf955f4953f23f71f7e.svg",
-    "main.75fc6e84.css.map": "/ten/static/css/main.75fc6e84.css.map",
-    "main.18351eb4.js.map": "/ten/static/js/main.18351eb4.js.map",
+    "main.e6ee72e5.css.map": "/ten/static/css/main.e6ee72e5.css.map",
+    "main.36eef6d2.js.map": "/ten/static/js/main.36eef6d2.js.map",
     "787.d10e31bf.chunk.js.map": "/ten/static/js/787.d10e31bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75fc6e84.css",
-    "static/js/main.18351eb4.js"
+    "static/css/main.e6ee72e5.css",
+    "static/js/main.36eef6d2.js"
   ]
 }
